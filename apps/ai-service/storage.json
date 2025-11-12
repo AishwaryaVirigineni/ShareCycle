@@ -1,0 +1,46 @@
+{
+  "requests": {
+    "test123": {
+      "id": "test123",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "urgency": "urgent",
+      "productNeed": "tampon",
+      "createdAt": "2025-11-08T21:10:47.455245Z"
+    }
+  },
+  "helpers": {
+    "helper1": {
+      "id": "helper1",
+      "lat": 37.775,
+      "lng": -122.4194,
+      "rating": 0.8,
+      "available": true,
+      "updatedAt": "2025-11-08T21:10:47.456200Z"
+    },
+    "helper2": {
+      "id": "helper2",
+      "lat": 37.78,
+      "lng": -122.4194,
+      "rating": 0.9,
+      "available": true,
+      "updatedAt": "2025-11-08T21:10:47.456204Z"
+    },
+    "helper3": {
+      "id": "helper3",
+      "lat": 37.785,
+      "lng": -122.4194,
+      "rating": 0.7,
+      "available": true,
+      "updatedAt": "2025-11-08T21:10:47.456207Z"
+    },
+    "helper4": {
+      "id": "helper4",
+      "lat": 37.775,
+      "lng": -122.4194,
+      "rating": 0.95,
+      "available": false,
+      "updatedAt": "2025-11-08T21:10:47.456209Z"
+    }
+  }
+}

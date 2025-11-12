@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pytest
+pytest-html
+httpx
+python-dotenv
+python-jose[cryptography]
+authlib
+# optional: transformers
+
